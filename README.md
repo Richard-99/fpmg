@@ -7,4 +7,4 @@ Needs python3 to run
 
 To run open terminal and run:
 
-$python3 first.py
+$python3 guessgame.py
